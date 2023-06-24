@@ -122,6 +122,7 @@ const Header = () => {
                       <ShapeImage
                         shape="circle"
                         src={authUser.profileImageUrl}
+                        alt="a"
                         width={24}
                         height={24}
                         data-testid="profile-shape-image"
